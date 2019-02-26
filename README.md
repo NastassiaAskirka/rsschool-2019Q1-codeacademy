@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Nastassia Askirka
+HTML CSS Basics: https://www.codecademy.com/users/NastassiaAskirka/achievements
